@@ -1,0 +1,13 @@
+com\example\demo\DemoApplication.class
+com\example\demo\auth\ApplicationUser.class
+com\example\demo\student\Student.class
+com\example\demo\security\ApplicationSecurityConfig.class
+com\example\demo\auth\ApplicationUserDao.class
+com\example\demo\student\StudentController.class
+com\example\demo\security\ApplicationUserRole.class
+com\example\demo\security\PasswordConfig.class
+com\example\demo\auth\ApplicationUserService.class
+com\example\demo\auth\FakeApplicationUserDaoService.class
+com\example\demo\student\StudentManagementController.class
+com\example\demo\contoller\TemplateController.class
+com\example\demo\security\ApplicationUserPermission.class
