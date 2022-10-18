@@ -1,0 +1,8 @@
+io\getarrays\userservice\UserserviceApplication.class
+io\getarrays\userservice\repository\RoleRepo.class
+io\getarrays\userservice\model\User.class
+io\getarrays\userservice\model\Role.class
+io\getarrays\userservice\service\UserServiceImpl.class
+io\getarrays\userservice\api\UserController.class
+io\getarrays\userservice\repository\UserRepo.class
+io\getarrays\userservice\service\UserService.class

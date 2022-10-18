@@ -1,0 +1,9 @@
+com\example\demo\DemoApplication.class
+com\example\demo\student\Student.class
+com\example\demo\security\ApplicationSecurityConfig.class
+com\example\demo\student\StudentController.class
+com\example\demo\security\ApplicationUserRole.class
+com\example\demo\security\PasswordConfig.class
+com\example\demo\student\StudentManagementController.class
+com\example\demo\controller\TemplateController.class
+com\example\demo\security\ApplicationUserPermission.class
